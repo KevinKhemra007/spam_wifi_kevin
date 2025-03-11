@@ -15,6 +15,11 @@
 ✅ **Clone & Spam a Target WiFi**  
 ✅ **Auto-Detect wlan0mon or wlan0**  
 ✅ **Runs on Kali Linux**  
+---
+![Screenshot 2025-03-12 031209](https://github.com/user-attachments/assets/d48656c2-0c48-453f-b5fb-ea758eb5ee9c)
+![Screenshot 2025-03-12 031248](https://github.com/user-attachments/assets/d4369423-a193-4a41-9858-bf3a4a48b1a7)
+![Screenshot 2025-03-12 031317](https://github.com/user-attachments/assets/d6ff50aa-3332-4b93-8f52-7344b89fff3a)
+
 
 ---
 
