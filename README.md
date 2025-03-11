@@ -29,5 +29,5 @@ Run the following commands in **Kali Linux**:
 ```bash
 git clone https://github.com/KevinKhemra007/spam_wifi_kevin.git
 cd spam_wifi_kevin
-chmod +x wifi_spammer.py
-sudo python3 wifi_spammer.py
+chmod +x Spam_wifi.py
+sudo python3 Spam_wifi.py
