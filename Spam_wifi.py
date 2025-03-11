@@ -29,8 +29,8 @@ def banner():
     print("[5] Exit\033[0m")
     print("\033[1;33m-------------------------------------------\033[0m")
     print("\033[1;36mCreated by Khemra \033[0m")
-    print("\033[1;35mGitHub: https://github.com/khemra007 \033[0m")
-    print("\033[1;35mTelegram: https://t.me/Kevin_Tech007 \033[0m")
+    print("\033[1;35mGitHub: https://github.com/KevinKhemra007 \033[0m")
+    print("\033[1;35mTelegram: https://t.me/hackisreal007  \033[0m")
     print("\033[1;33m-------------------------------------------\033[0m")
 
 # Start wlan0
